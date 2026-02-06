@@ -4,12 +4,11 @@
 This project focuses on **Banking Risk Analytics** to analyze customer behavior and financial patterns that help reduce lending risk.  
 It demonstrates an **end-to-end data analytics pipeline** using **MySQL**, **Python (Jupyter Notebook)**, and **Power BI** to transform raw banking data into meaningful insights and interactive dashboards.
 
----
 
 ## 🎯 Problem Statement
 To develop a basic understanding of **risk analytics in banking and financial services** and analyze how data can be used to **minimize financial loss while lending to customers**.
 
----
+
 
 ## 💡 Solution Approach
 - Data storage and management using **MySQL**
@@ -22,7 +21,7 @@ To develop a basic understanding of **risk analytics in banking and financial se
   - Income band and nationality segmentation
   - Risk-related indicators
 
----
+
 
 ## 🗂️ Dataset Description
 The dataset contains customer-level banking information including:
@@ -32,7 +31,7 @@ The dataset contains customer-level banking information including:
 - Engagement and joining details
 - Income bands, fee structure, and risk weighting
 
----
+
 
 ## 🧹 Data Cleaning & Feature Engineering
 Performed using **Python and Power BI**:
@@ -43,7 +42,7 @@ Performed using **Python and Power BI**:
 - Derived **Total Fees** from deposits
 - Converted data types and standardized column names
 
----
+
 
 ## 📊 Key KPIs (DAX Measures)
 - Total Clients  
@@ -55,8 +54,6 @@ Performed using **Python and Power BI**:
 - Checking Account Amount  
 - Foreign Currency Account  
 - Engagement Account (Average Deposit per Customer)  
-
----
 
 ## 📈 Power BI Dashboards
 ### 🔹 Summary Dashboard
@@ -74,8 +71,18 @@ Performed using **Python and Power BI**:
 - Deposits by engagement timeframe
 - Deposits by income band and nationality
 
----
 
 ## 🛠️ Tech Stack
 - **Database:** MySQL  
 - **Data Analysis:** Python (Pandas, NumPy, Matplotlib, Seabo
+
+## 📌 Conclusion
+This project showcases how **data analytics and visualization** can support **risk-aware, data-driven decision-making in banking**.  
+By integrating SQL, Python, and Power BI, it delivers actionable insights into customer behavior, engagement, and financial risk.
+
+---
+
+## ✨ Author
+**Tanushree Yaltiwar**  
+_Data Analytics | Power BI | SQL | Python_
+
